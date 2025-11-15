@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folder
+.venv/
+
+# Allow everything else
+!*/
+
+# Or explicitly track your source folder if needed
+# !src/
+
